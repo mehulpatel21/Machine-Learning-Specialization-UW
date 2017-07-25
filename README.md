@@ -1,4 +1,4 @@
-# Machine Learning Specialization (using Python + GraphLab Create)
+# Machine Learning Specialization (using Python + GraphLab Create) - University of Washington (Coursera.org)
 This repository is dedicated to all the assignments/lectures taught in Machine Learning Specialization through Coursera.org from University of Washington.
 Courses in this specialization are:
 
